@@ -2,7 +2,6 @@
 An end-to-end data analytics project using Python, SQL, and Power BI to analyze customer shopping behavior and generate actionable business insights.
 
 
-An end-to-end data analytics project using Python, SQL, and Power BI to analyze customer shopping behavior and generate actionable business insights.
 ## Overview
 ---
 This project analyzes customer shopping data to understand purchasing patterns and customer segments. It covers the full analytics workflow: data loading, exploratory data analysis, data cleaning, SQL analysis, interactive dashboarding, and reporting.
