@@ -1,2 +1,2 @@
-# sustomer-Shopping-Behavior-Analysis
+# Customer-Shopping-Behavior-Analysis
 An end-to-end data analytics project using Python, SQL, and Power BI to analyze customer shopping behavior and generate actionable business insights.
